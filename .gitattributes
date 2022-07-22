@@ -1,0 +1,13 @@
+csv_files/sars_cov2.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/voc_alpha.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/voc_beta.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/voc_gamma.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/voc_delta.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/voc_omicron.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_sars_cov2.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_non_vocs.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_voc_alpha.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_voc_beta.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_voc_delta.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_voc_gamma.csv filter=lfs diff=lfs merge=lfs -text
+csv_files/filtered_voc_omicron.csv filter=lfs diff=lfs merge=lfs -text
